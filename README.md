@@ -1,2 +1,2 @@
 # hello-graph
-tp git et github 
+tp github 
